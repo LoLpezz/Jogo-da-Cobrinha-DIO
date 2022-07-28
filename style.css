@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body{
+    width: 94;
+    height: 95vh;
+    display: flex;
+    justify-content: center; /*ALINHA HORIZONTALMENTE NO MEIO*/
+    align-items: center; /*ALINHA VERTICALMENTE NO MEIO*/
+    flex-direction: column;
+}
+
+#snake{
+    border: none;
+    border-radius: 20px;
+}
+
+.title{
+    font-family: 'Fredoka One', sans-serif;
+    text-transform: uppercase;
+    color: lightseagreen;
+}
