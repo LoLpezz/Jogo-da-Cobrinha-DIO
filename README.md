@@ -1,7 +1,4 @@
 <h1 align="center">Jogo da Cobrinha</h1>
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"> 
-</p>
 
 <p>
  Este é o jogo da Snake ou cobrinha que foi o desafio do Bootcamp HTML Web Developer oferecido pela Digital Innovation One, e as tecnologias utilziadas forão:
@@ -13,6 +10,10 @@
 </ul> 
  
 <p>Abaixo segue uma imagem de como está e também o link para acessar.</p>
+
 <p>Link: <a href="https://nake-snake-game.netlify.app/">Snake Game</a></p>
 <p>Para poder jogar deve utilziar as teclas direcionais do teclado</p>
 
+<p>
+  <img src="">
+</p>
