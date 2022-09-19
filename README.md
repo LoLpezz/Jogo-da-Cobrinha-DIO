@@ -15,5 +15,5 @@
 <p>Para poder jogar deve utilziar as teclas direcionais do teclado</p>
 
 <p>
-  <img src="">
+  <img src="https://github.com/LoLpezz/Jogo-da-Cobrinha-DIO/blob/master/Snake%20Game.png">
 </p>
