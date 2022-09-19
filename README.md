@@ -13,7 +13,7 @@
 </ul> 
  
 <p>Abaixo segue uma imagem de como está e também o link para acessar.</p>
-<p>Link: <a href=">Snake Game</a></p>
+<p>Link: <a href="https://nake-snake-game.netlify.app/">Snake Game</a></p>
 
-# Jogo-da-Cobrinha-DIO
+
 https://nake-snake-game.netlify.app
