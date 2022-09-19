@@ -14,6 +14,5 @@
  
 <p>Abaixo segue uma imagem de como está e também o link para acessar.</p>
 <p>Link: <a href="https://nake-snake-game.netlify.app/">Snake Game</a></p>
+<p>Para poder jogar deve utilziar as teclas direcionais do teclado</p>
 
-
-https://nake-snake-game.netlify.app
